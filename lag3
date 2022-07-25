@@ -1,6 +1,6 @@
 Run this and take a good chunk of the server with you straight to HELL.
 
-by Redo#1337
+by Redo#1337,silver#1337
 
 
 for _, v in pairs(game:GetService("Workspace").KrustyKrab:GetDescendants()) do
